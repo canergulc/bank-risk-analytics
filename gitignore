@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data & outputs
+data/
+!data/.gitkeep
+
+# Power BI caches
+*.pbix.upload
+*.pbix.local
+
+# OS
+Thumbs.db
